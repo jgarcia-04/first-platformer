@@ -34,4 +34,4 @@ ui_right={
 
 [rendering]
 
-environment/defaults/default_clear_color=Color(0.38641298, 0.60609967, 0.81032866, 1)
+environment/defaults/default_clear_color=Color(0.13384598, 0.27035895, 0.39321738, 1)

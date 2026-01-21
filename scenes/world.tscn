@@ -1,9 +1,10 @@
-[gd_scene load_steps=9 format=3 uid="uid://dwutlo4op61rg"]
+[gd_scene load_steps=10 format=3 uid="uid://dwutlo4op61rg"]
 
 [ext_resource type="Texture2D" uid="uid://bchld820nlg0d" path="res://tilesetArt/block.png" id="1_k0juu"]
 [ext_resource type="Texture2D" uid="uid://dd0i8fm3xlx2p" path="res://tilesetArt/brick.png" id="2_71j4m"]
 [ext_resource type="Texture2D" uid="uid://bm56rv2npnpat" path="res://tilesetArt/castle_tileset_part1.png" id="3_qfnet"]
 [ext_resource type="PackedScene" uid="uid://bbybl8pb1aycl" path="res://scenes/player.tscn" id="4_i7141"]
+[ext_resource type="PackedScene" uid="uid://p0urnrchgcnt" path="res://scenes/ugly_thing.tscn" id="5_71j4m"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_dwbse"]
 texture = ExtResource("1_k0juu")
@@ -1493,3 +1494,9 @@ layer_0/tile_data = PackedInt32Array(2555904, 393218, 25, 2555905, 393218, 25, 2
 position = Vector2(120, 624)
 
 [node name="Camera2D" type="Camera2D" parent="TileMap/player"]
+limit_left = 0
+limit_top = 0
+limit_bottom = 650
+
+[node name="uglyThing" parent="TileMap" instance=ExtResource("5_71j4m")]
+position = Vector2(295, 626)
