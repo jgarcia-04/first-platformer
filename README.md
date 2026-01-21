@@ -7,6 +7,12 @@ WIP
 - Camera system: player-follow Camera2D
 
 # asset credits
+
+### environment (tilesets)
+- Pixel Art Castle Tileset by rubberduck
+- Source (OGA Page): https://opengameart.org/users/rubberduck
+- License: CC0 (Public Domain)
+
 ### enemies
 - Dungeon Crawl Stone Soup
 - Source (OGA Page): http://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental  
