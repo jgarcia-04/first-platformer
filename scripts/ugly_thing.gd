@@ -36,4 +36,5 @@ func update_animation():
 
 
 func _on_hitbox_1_body_entered(body: Node2D) -> void:
-	pass # Replace with function body.
+	if body.is_in_group("player"):
+		queue_free()
