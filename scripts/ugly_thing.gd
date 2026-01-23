@@ -33,3 +33,7 @@ func _physics_process(delta: float) -> void:
 func update_animation():
 	animated_sprite_2d.play("idle")
 	animated_sprite_2d.flip_h = direction < 0
+
+
+func _on_hitbox_1_body_entered(body: Node2D) -> void:
+	pass # Replace with function body.
