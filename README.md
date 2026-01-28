@@ -20,7 +20,13 @@ WIP
 - License: CC0 (Public Domain)
 
 ### player model
-- Fumiko Complete Charset by sylvius fischer
+- Fumiko Complete Charset by Sylvius Fischer
 - Source (OGA Page): https://opengameart.org/users/skoam
 - Original Game (Check it out): https://github.com/skoam/fumiko-pygame
 - License: CC0 (Public Domain)
+
+### dungeon
+- Rougelike Dungeon Asset Bundle by Pupkin
+- Source (itch.io page): https://trevor-pupkin.itch.io/
+- License: CC0 (Public Domain)
+  
