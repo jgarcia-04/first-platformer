@@ -28,7 +28,7 @@ WIP
 ### dungeon
 - Rougelike Dungeon Asset Bundle by Pupkin
 - Source (itch.io page): https://trevor-pupkin.itch.io/
-- License: CC0 (Public Domain)
+- License: This asset pack can be used in both free and commercial projects. You can modify it to suit your own needs. Credit isn't required, but highly appreciated.
 
 ### animated sprites
 - Pixel Enemies by PolishedStone
